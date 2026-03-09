@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Route_A
   m_EditorClassIdentifier: 
   pointA: {x: 0, y: 0, z: 0}
-  pointB: {x: 0, y: 0, z: 0}
+  pointB: {x: 5, y: 0, z: 0}
